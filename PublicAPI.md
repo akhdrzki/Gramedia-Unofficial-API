@@ -12,6 +12,7 @@ Following the request by:
 
 ```http
   GET https://www.gramedia.com/api/algolia/search/product/?page=1&per_page=20&category=buku&based_on=best-seller
+
 ```
 
 | Parameter | Type     | Description                |
