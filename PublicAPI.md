@@ -11,7 +11,7 @@ Following the request by:
 #### Get popular book
 
 ```http
-  GET /api/algolia/search/product/?page=1&per_page=20&category=buku&based_on=best-seller
+  GET https://www.gramedia.com/api/algolia/search/product/?page=1&per_page=20&category=buku&based_on=best-seller
 ```
 
 | Parameter | Type     | Description                |
